@@ -10,6 +10,10 @@ Both script were used to produce figures in the next papers:
 
 - Fujii, L., Inga, M., Soares, J. H., Espinel, Y. A., Alegre, T. M., & Wiederhecker, G. S. (2020). Dispersion tailoring in wedge microcavities for Kerr comb generation. Optics Letters, 45(12), 3232-3235. [Link](https://arxiv.org/abs/2003.11625v1)
 
+Complete data can be find in ZENODO:
+
+- Inga, Marvyn, Fujii, Lais, da Silva Filho, José Maria C., Palhares, João Henrique Q., Ferlauto, Andre S., Marques, Francisco C., … Wiederhecker, Gustavo S. (2020). Dataset and Simulation Files for article "Alumina coating for dispersion management in ultra-high Q microresonators" (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3932243
+
 
 ### Loading useful packages
 
