@@ -340,7 +340,7 @@ plt.show()
 ```
 
 
-![png](./Figures/output_23_0.png)
+![png](output_23_0.png)
 
 
 ### Finding peaks and valleys of the smoothed MZI which are necessary for building the frequency axis
@@ -365,7 +365,7 @@ plt.show()
 ```
 
 
-![png](./Figures/output_25_0.png)
+![png](output_25_0.png)
 
 
 ### Finding the HCN peaks to build an absolute frequency axis
@@ -399,7 +399,7 @@ plt.show()
 ```
 
 
-![png](./Figures/output_27_0.png)
+![png](output_27_0.png)
 
 
 ### Recognizing and choosing one HCN-peak to be the central frequency
@@ -604,7 +604,7 @@ plt.show()
 ```
 
 
-![png](./Figures/output_35_0.png)
+![png](output_35_0.png)
 
 
 ### Plotting processed data
