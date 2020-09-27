@@ -1,5 +1,16 @@
 # Measuring dispersion in spherical microcavities
 
+As an example we show the preprocessing jupyter notebook. Here we normalized the spectra and calibrate the frequency axis.
+
+The postprocessing jupyter notebook is exclusively to analise dispersion in microcavities.
+
+Both script were used to produce figures in the next papers:
+
+- Inga, M., Fujii, L., Palhares, J. H. Q., Ferlauto, A. S., Marques, F. C., Alegre, T. P. M., & Wiederhecker, G. S. (2020). Alumina coating for dispersion management in ultra-high Q microresonators. arXiv preprint arXiv:2009.07826. [Link](https://arxiv.org/abs/2009.07826)
+
+- Fujii, L., Inga, M., Soares, J. H., Espinel, Y. A., Alegre, T. M., & Wiederhecker, G. S. (2020). Dispersion tailoring in wedge microcavities for Kerr comb generation. Optics Letters, 45(12), 3232-3235. [Link](https://arxiv.org/abs/2003.11625v1)
+
+
 ### Loading useful packages
 
 
