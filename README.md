@@ -1,8 +1,8 @@
 # Measuring dispersion in spherical microcavities
 
-As an example we show the preprocessing jupyter notebook. Here we normalized the spectra and calibrate the frequency axis.
+As an example we show the preprocessing jupyter notebook. Here we normalized the spectra and calibrated the frequency axis.
 
-The postprocessing jupyter notebook is exclusively to analise dispersion in microcavities.
+The postprocessing jupyter notebook was exclusively used to analise dispersion in microcavities.
 
 Both script were used to produce figures in the next papers:
 
