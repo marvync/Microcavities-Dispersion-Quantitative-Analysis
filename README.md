@@ -6,9 +6,9 @@ The postprocessing jupyter notebook was exclusively used to analise dispersion i
 
 Both script were used to produce figures in the next papers:
 
-- Inga, M., Fujii, L., Palhares, J. H. Q., Ferlauto, A. S., Marques, F. C., Alegre, T. P. M., & Wiederhecker, G. S. (2020). Alumina coating for dispersion management in ultra-high Q microresonators. arXiv preprint arXiv:2009.07826. [Link](https://arxiv.org/abs/2009.07826)
+- Inga, M., Fujii, L., Palhares, J. H. Q., Ferlauto, A. S., Marques, F. C., Alegre, T. P. M., & Wiederhecker, G. S. (2020). Alumina coating for dispersion management in ultra-high Q microresonators. APL Photonics 5, 116107 (2020). [Link](https://aip.scitation.org/doi/10.1063/5.0028839)
 
-- Fujii, L., Inga, M., Soares, J. H., Espinel, Y. A., Alegre, T. M., & Wiederhecker, G. S. (2020). Dispersion tailoring in wedge microcavities for Kerr comb generation. Optics Letters, 45(12), 3232-3235. [Link](https://arxiv.org/abs/2003.11625v1)
+- Fujii, L., Inga, M., Soares, J. H., Espinel, Y. A., Alegre, T. M., & Wiederhecker, G. S. (2020). Dispersion tailoring in wedge microcavities for Kerr comb generation. Optics Letters, 45(12), 3232-3235. [Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-12-3232)
 
 Complete data can be find in ZENODO:
 
