@@ -1,4 +1,4 @@
-# Measuring dispersion in spherical microcavities
+![Measuring-dispersion](Measuring-dispersion.svg)
 
 As an example we show the preprocessing jupyter notebook. Here we normalized the spectra and calibrated the frequency axis.
 
