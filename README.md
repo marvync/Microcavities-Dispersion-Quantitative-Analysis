@@ -4,7 +4,7 @@ As an example we show the preprocessing jupyter notebook. Here we normalized the
 
 The postprocessing jupyter notebook was exclusively used to analise dispersion in microcavities.
 
-Both script were used to produce figures in the next papers:
+Both script were used to produce figures in the next articles:
 
 - Inga, M., Fujii, L., Palhares, J. H. Q., Ferlauto, A. S., Marques, F. C., Alegre, T. P. M., & Wiederhecker, G. S. (2020). Alumina coating for dispersion management in ultra-high Q microresonators. APL Photonics 5, 116107 (2020). [Link](https://aip.scitation.org/doi/10.1063/5.0028839)
 
